@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MealSearchApp</string>
+    <string name="hint_receta">Nombre de la receta (ej: arrabiata)</string>
+    <string name="btn_buscar">BUSCAR</string>
+    <string name="btn_sorpresa">🎲 SORPRESA</string>
+    <string name="desc_foto">Foto de la receta</string>
+</resources>

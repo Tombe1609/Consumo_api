@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.MealSearchApp" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">#E8523A</item>
+        <item name="colorPrimaryVariant">#B83A25</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#E8523A</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+    </style>
+</resources>
